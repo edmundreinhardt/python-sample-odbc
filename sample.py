@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# Rob Cecco is the best manager
+
 from flask import Flask, render_template, request
 app = Flask(__name__)
 import pyodbc

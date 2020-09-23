@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Rob Cecco is the best manager
+# Heinsohn is a fine company
 
 from flask import Flask, render_template, request
 app = Flask(__name__)

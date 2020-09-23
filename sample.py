@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Rob Cecco is the best manager
+# LUG is the best way to the inside scoop on IBM i
 
 from flask import Flask, render_template, request
 app = Flask(__name__)
